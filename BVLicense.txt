@@ -1,5 +1,5 @@
 AppName: Biraj-Tools
 Version: 1.0.0
-License: BrainVision123
+License: BrainVision
 Name: Biraj Shrestha
 Message: Check your internet and retry!
