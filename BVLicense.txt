@@ -1,2 +1,3 @@
+AppName: Biraj-Tools
 License: BrainVision
 Name: Biraj Shrestha
