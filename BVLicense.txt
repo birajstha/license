@@ -1,5 +1,5 @@
 AppName: Biraj-Tools
-Version: 1.0.0
+Version: 1.0.1
 License: BrainVision
 Name: Biraj Shrestha
 Message: Something went wrong! Please retry..
